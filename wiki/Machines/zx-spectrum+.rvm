@@ -1,0 +1,13 @@
+{
+  devices : {
+
+  },
+  rom : {
+    rom : <eJztwDEBAAAAwqD1T20MHygAAAAAAAAAAAAAAAAAAADgbUAAAAE=>
+  },
+  media : {
+
+  },
+  status : 0,
+  class : 'rvm.machine.zxspectrum.plus'
+}
