@@ -2,12 +2,49 @@
   devices : {
 
   },
-  rom : {
-    rom : <eJztwDEBAAAAwqD1T20MHygAAAAAAAAAAAAAAAAAAADgbUAAAAE=>
+  video : {
+    __screen : 'Colour',
+    __preset : 'CRT - Curved',
+    curvature : 0.6,
+    ghostIntensity : 0,
+    ghostOffset : 0,
+    offset : 0,
+    interlaced : 0.4,
+    scanlines : 0.15,
+    contrast : 1,
+    overlay : true,
+    blur : 0.25,
+    background : true,
+    maskB : 0.9,
+    overscan : 0.27,
+    ghostAngle : 0,
+    brightness : 0,
+    saturation : 0.9,
+    beamSpeed : 0.2,
+    overscanV : 0,
+    overscanH : 0,
+    vigRnd : 0.1,
+    vigAmp : 1,
+    noise : 0,
+    beamI : 0.07
+  },
+  class : 'rvm.machine.zxspectrum.plus',
+  audio : {
+    volume : 0.8,
+    filter : 0.5
   },
   media : {
 
   },
+  rom : {
+    rom : <eJztwDEBAAAAwqD1T20MHygAAAAAAAAAAAAAAAAAAADgbUAAAAE=>
+  },
+  debuggerSnap : {
+    splitted : false
+  },
   status : 0,
-  class : 'rvm.machine.zxspectrum.plus'
+  misc : {
+    devmode : false,
+    lcdmode : 0
+  }
 }
