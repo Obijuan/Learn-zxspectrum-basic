@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="161.16888mm"
+   height="82.391998mm"
+   viewBox="0 0 161.16888 82.391998"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (d5533a4b60, 2026-02-22)"
+   sodipodi:docname="tecla-b-producto.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.98646753"
+     inkscape:cx="166.24977"
+     inkscape:cy="349.22589"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.23039418,-17.211597)">
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.302708;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect350"
+       width="161.16888"
+       height="82.391998"
+       x="-0.23039418"
+       y="17.211597" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.9138px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583;stroke-linecap:round"
+       x="93.238594"
+       y="65.624702"
+       id="text364"
+       transform="scale(1.0112239,0.98890068)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9138px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#000000;stroke-width:0.264583"
+         x="93.238594"
+         y="65.624702"
+         id="tspan364">Producto</tspan></text>
+    <g
+       id="g5"
+       transform="translate(-132.8249)">
+      <rect
+         style="fill:#242424;fill-opacity:1;stroke:#000000;stroke-width:0.681886;stroke-linecap:round"
+         id="rect259"
+         width="57.402706"
+         height="59.471436"
+         x="142.36479"
+         y="29.878822" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:9.16075px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.681886;stroke-linecap:round"
+         x="159.05475"
+         y="39.408356"
+         id="text229"
+         transform="scale(1.0250689,0.97554418)"><tspan
+           sodipodi:role="line"
+           id="tspan229"
+           style="font-size:9.16075px;stroke-width:0.681886"
+           x="159.05475"
+           y="39.408356">BIN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:9.39273px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.681886;stroke-linecap:round"
+         x="144.30833"
+         y="49.616428"
+         id="text230"
+         transform="scale(1.0610723,0.94244284)"><tspan
+           sodipodi:role="line"
+           id="tspan230"
+           style="font-size:9.39273px;stroke-width:0.681886"
+           x="144.30833"
+           y="49.616428">BRIGHT</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:9.1856px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.681886;stroke-linecap:round"
+         x="143.19307"
+         y="61.048893"
+         id="text238"
+         transform="scale(1.0578561,0.94530818)"><tspan
+           sodipodi:role="line"
+           id="tspan238"
+           style="font-size:9.1856px;stroke-width:0.681886"
+           x="143.19307"
+           y="61.048893">BORDER</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.681886;stroke-linecap:round"
+         id="path244"
+         sodipodi:type="arc"
+         sodipodi:cx="171.55432"
+         sodipodi:cy="62.018665"
+         sodipodi:rx="25.742678"
+         sodipodi:ry="25.742678"
+         sodipodi:start="5.7146803"
+         sodipodi:end="3.7090481"
+         sodipodi:open="true"
+         sodipodi:arc-type="chord"
+         d="m 193.24785,48.159508 a 25.742678,25.742678 0 0 1 -4.84632,33.323411 25.742678,25.742678 0 0 1 -33.67397,0.01767 25.742678,25.742678 0 0 1 -4.8813,-33.318306 z" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.78545px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ff0000;stroke-width:0.681886;stroke-linecap:round"
+         x="189.911"
+         y="65.125694"
+         id="text250"
+         transform="scale(0.98933731,1.0107776)"><tspan
+           sodipodi:role="line"
+           id="tspan250"
+           style="font-size:7.78545px;fill:#ff0000;stroke-width:0.681886"
+           x="189.911"
+           y="65.125694">*</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:16.5781px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.681884;stroke-linecap:round"
+         x="163.28352"
+         y="86.500977"
+         id="text255"
+         transform="scale(1.0176294,0.98267601)"><tspan
+           sodipodi:role="line"
+           id="tspan255"
+           style="font-size:16.5781px;stroke-width:0.681884"
+           x="163.28352"
+           y="86.500977">B</tspan></text>
+    </g>
+    <circle
+       style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="circle363"
+       cx="61.699978"
+       cy="61.928322"
+       r="1.2078928" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 91.442128,61.928323 H 61.699976"
+       id="path363"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
