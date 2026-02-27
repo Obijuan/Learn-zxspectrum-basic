@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="196.57298mm"
+   height="82.391998mm"
+   viewBox="0 0 196.57298 82.391998"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (d5533a4b60, 2026-02-22)"
+   sodipodi:docname="tecla-p-PRINT.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69753788"
+     inkscape:cx="388.50937"
+     inkscape:cy="412.164"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.23039418,-17.211597)">
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.334307;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect350"
+       width="196.57298"
+       height="82.391998"
+       x="-0.23039418"
+       y="17.211597" />
+    <rect
+       style="fill:#242424;fill-opacity:1;stroke:#000000;stroke-width:0.70256;stroke-linecap:round"
+       id="rect158"
+       width="59.646626"
+       height="60.126846"
+       x="18.694035"
+       y="29.539762" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.51493px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ff0000;stroke-width:0.70256;stroke-linecap:round"
+       x="33.147278"
+       y="60.088776"
+       id="text98"
+       transform="scale(1.0265076,0.9741769)"><tspan
+         sodipodi:role="line"
+         id="tspan98"
+         style="font-size:9.51493px;fill:#ff0000;stroke-width:0.70256"
+         x="33.147278"
+         y="60.088776">PRINT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.84032px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.70256;stroke-linecap:round"
+       x="37.98143"
+       y="39.510006"
+       id="text111"
+       transform="scale(1.02897,0.97184564)"><tspan
+         sodipodi:role="line"
+         id="tspan111"
+         style="font-size:9.84032px;stroke-width:0.70256"
+         x="37.98143"
+         y="39.510006">TAB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.2406px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.70256;stroke-linecap:round"
+       x="45.219761"
+       y="47.312744"
+       id="text112"
+       transform="scale(1.02897,0.97184564)"><tspan
+         sodipodi:role="line"
+         id="tspan112"
+         style="font-size:7.2406px;stroke-width:0.70256"
+         x="45.219761"
+         y="47.312744">c</tspan></text>
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.702557;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path112"
+       cx="48.800522"
+       cy="44.133537"
+       r="3.0379717" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.0494px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.702557;stroke-linecap:round"
+       x="43.5732"
+       y="85.407265"
+       id="text140"
+       transform="scale(0.99817613,1.0018272)"><tspan
+         sodipodi:role="line"
+         id="tspan140"
+         style="font-size:16.0494px;stroke-width:0.702557"
+         x="43.5732"
+         y="85.407265">P</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none"
+       id="path149"
+       sodipodi:type="arc"
+       sodipodi:cx="48.638046"
+       sodipodi:cy="62.865253"
+       sodipodi:rx="26.523142"
+       sodipodi:ry="26.523142"
+       sodipodi:start="5.7146803"
+       sodipodi:end="3.7090481"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="M 70.989278,48.585915 A 26.523142,26.523142 0 0 1 65.996023,82.919622 26.523142,26.523142 0 0 1 31.301128,82.93783 26.523142,26.523142 0 0 1 26.27184,48.609382 Z" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 95.866613,55.288233 H 66.124461"
+       id="path363"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="circle363"
+       cx="65.587906"
+       cy="55.288284"
+       r="1.2078928" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.9138px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583;stroke-linecap:round"
+       x="95.996407"
+       y="59.063156"
+       id="text364"
+       transform="scale(1.0112239,0.98890068)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9138px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#000000;stroke-width:0.264583"
+         x="95.996407"
+         y="59.063156"
+         id="tspan364">Instrucción PRINT</tspan></text>
+  </g>
+</svg>
