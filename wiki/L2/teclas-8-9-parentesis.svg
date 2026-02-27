@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="251.02182mm"
+   height="120.10645mm"
+   viewBox="0 0 251.02182 120.10645"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (d5533a4b60, 2026-02-22)"
+   sodipodi:docname="teclas-8-9-parentesis.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0276746"
+     inkscape:cx="459.28936"
+     inkscape:cy="242.78113"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(109.30228,11.316387)">
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.456121;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect350"
+       width="251.02182"
+       height="120.10645"
+       x="-109.30228"
+       y="-11.316387" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.9138px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583;stroke-linecap:round"
+       x="45.539429"
+       y="26.521484"
+       id="text364"
+       transform="scale(1.0112239,0.98890068)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9138px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#000000;stroke-width:0.264583"
+         x="45.539429"
+         y="26.521484"
+         id="tspan364">Cerrar paréntesis</tspan></text>
+    <rect
+       style="fill:#242424;fill-opacity:1;stroke:#000000;stroke-width:0.683457;stroke-linecap:round"
+       id="rect74"
+       width="58.02486"
+       height="59.46986"
+       x="-28.717836"
+       y="29.87961" />
+    <rect
+       style="fill:#242424;fill-opacity:1;stroke:#000000;stroke-width:0.683457;stroke-linecap:round"
+       id="rect70"
+       width="58.02486"
+       height="59.46986"
+       x="-90.024246"
+       y="29.87961" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.6742px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.683455;stroke-linecap:round"
+       x="-66.60952"
+       y="87.352303"
+       id="text68"
+       transform="scale(1.0034366,0.99657516)"><tspan
+         sodipodi:role="line"
+         id="tspan68"
+         style="font-size:16.6742px;stroke-width:0.683455"
+         x="-66.60952"
+         y="87.352303">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.28671px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.683457;stroke-linecap:round"
+       x="-76.341293"
+       y="49.373287"
+       id="text69"
+       transform="scale(1.0154766,0.98475928)"><tspan
+         sodipodi:role="line"
+         id="tspan69"
+         style="font-size:9.28671px;stroke-width:0.683457"
+         x="-76.341293"
+         y="49.373287">POINT</tspan></text>
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.683457;stroke-linecap:round"
+       id="rect69"
+       width="13.389328"
+       height="13.227509"
+       x="-75.52829"
+       y="-66.552231"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.3249px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ff0000;stroke-width:0.683455;stroke-linecap:round"
+       x="-50.400936"
+       y="65.270615"
+       id="text70"
+       transform="scale(0.99092403,1.0091591)"><tspan
+         sodipodi:role="line"
+         id="tspan70"
+         style="font-size:16.3249px;fill:#ff0000;stroke-width:0.683455"
+         x="-50.400936"
+         y="65.270615">(</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.683457;stroke-linecap:round"
+       id="path70"
+       sodipodi:type="arc"
+       sodipodi:cx="-61.468857"
+       sodipodi:cy="62.969753"
+       sodipodi:rx="25.801991"
+       sodipodi:ry="25.801991"
+       sodipodi:start="5.7146803"
+       sodipodi:end="3.7090481"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m -39.725344,49.078663 a 25.801991,25.801991 0 0 1 -4.857491,33.400191 25.801991,25.801991 0 0 1 -33.751558,0.01771 25.801991,25.801991 0 0 1 -4.892544,-33.395074 z" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.6742px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.683455;stroke-linecap:round"
+       x="-5.9107265"
+       y="87.352303"
+       id="text71"
+       transform="scale(1.0034366,0.99657516)"><tspan
+         sodipodi:role="line"
+         id="tspan71"
+         style="font-size:16.6742px;stroke-width:0.683455"
+         x="-5.9107265"
+         y="87.352303">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.3249px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ff0000;stroke-width:0.683455;stroke-linecap:round"
+       x="-20.365389"
+       y="65.270615"
+       id="text73"
+       transform="scale(-0.99092403,1.0091591)"><tspan
+         sodipodi:role="line"
+         id="tspan73"
+         style="font-size:16.3249px;fill:#ff0000;stroke-width:0.683455"
+         x="-20.365389"
+         y="65.270615">(</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.07135px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.683457;stroke-linecap:round"
+       x="-10.207737"
+       y="50.236458"
+       id="text74"
+       transform="scale(1.0395852,0.96192212)"><tspan
+         sodipodi:role="line"
+         id="tspan74"
+         style="font-size:9.07135px;stroke-width:0.683457"
+         x="-10.207737"
+         y="50.236458">CAT</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.683457;stroke-linecap:round"
+       id="path74"
+       sodipodi:type="arc"
+       sodipodi:cx="-0.23039418"
+       sodipodi:cy="62.969753"
+       sodipodi:rx="25.801991"
+       sodipodi:ry="25.801991"
+       sodipodi:start="5.7146803"
+       sodipodi:end="3.7090481"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m 21.513118,49.078663 a 25.801991,25.801991 0 0 1 -4.857491,33.400191 25.801991,25.801991 0 0 1 -33.751557,0.01771 25.801991,25.801991 0 0 1 -4.892544,-33.395074 z" />
+    <circle
+       style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="circle363"
+       cx="13.207984"
+       cy="60.94257"
+       r="1.2078928" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none"
+       d="m 13.207983,60.942569 -3e-6,-37.37553 h 29.132668"
+       id="path7"
+       sodipodi:nodetypes="ccc" />
+    <circle
+       style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="circle7"
+       cx="-40.940384"
+       cy="60.94257"
+       r="1.2078928" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none"
+       d="m -40.940384,60.942569 -3e-6,-49.990986 h 29.132668"
+       id="path8" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.9138px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583;stroke-linecap:round"
+       x="-10.418817"
+       y="14.675653"
+       id="text8"
+       transform="scale(1.0112239,0.98890068)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9138px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#000000;stroke-width:0.264583"
+         x="-10.418817"
+         y="14.675653"
+         id="tspan8">Abrir paréntesis</tspan></text>
+  </g>
+</svg>
