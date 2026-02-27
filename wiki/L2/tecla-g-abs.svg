@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.98646753"
-     inkscape:cx="339.08871"
+     inkscape:cx="339.59557"
      inkscape:cy="280.29306"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
@@ -73,14 +73,14 @@
        y="29.537825" />
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:9.51534px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.69868;stroke-linecap:round"
+       style="font-weight:bold;font-size:9.51534px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ff0000;stroke-width:0.69868;stroke-linecap:round"
        x="47.539749"
        y="41.570412"
        id="text166"
        transform="scale(1.0758284,0.92951626)"><tspan
          sodipodi:role="line"
          id="tspan166"
-         style="font-size:9.51534px;stroke-width:0.69868"
+         style="font-size:9.51534px;stroke-width:0.69868;fill:#ff0000"
          x="47.539749"
          y="41.570412">ABS</tspan></text>
     <text
