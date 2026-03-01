@@ -1,0 +1,4 @@
+1 CLS
+2 PRINT 1
+3 PRINT 2
+

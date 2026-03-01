@@ -1,0 +1,7 @@
+10 REM  ==== Prog05.bas ====
+20 CLS
+30 PRINT 1
+40 PRINT 2
+50 PRINT 1+2
+60 PRINT 3*4
+
