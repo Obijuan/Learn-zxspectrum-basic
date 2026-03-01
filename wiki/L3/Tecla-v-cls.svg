@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="161.16888mm"
+   height="82.391998mm"
+   viewBox="0 0 161.16888 82.391998"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (9f8f2fec20, 2026-03-01)"
+   sodipodi:docname="Tecla-v-cls.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69753788"
+     inkscape:cx="496.74722"
+     inkscape:cy="286.00597"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.098009,-17.211597)">
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.302708;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="rect350"
+       width="161.16888"
+       height="82.391998"
+       x="17.098009"
+       y="17.211597" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.9138px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583;stroke-linecap:round"
+       x="103.01186"
+       y="58.127724"
+       id="text364"
+       transform="scale(1.0112239,0.98890068)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9138px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#000000;stroke-width:0.264583"
+         x="103.01186"
+         y="58.127724"
+         id="tspan2">Instrucción</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9138px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#000000;stroke-width:0.264583"
+         x="103.01186"
+         y="69.041527"
+         id="tspan3">CLS</tspan></text>
+    <rect
+       style="fill:#242424;fill-opacity:1;stroke:#000000;stroke-width:0.676858;stroke-linecap:round"
+       id="rect258"
+       width="56.979378"
+       height="59.032848"
+       x="30.481812"
+       y="30.310709" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.61438px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.676858;stroke-linecap:round"
+       x="41.837536"
+       y="42.433445"
+       id="text227"
+       transform="scale(1.083821,0.92266159)"><tspan
+         sodipodi:role="line"
+         id="tspan227"
+         style="font-size:9.61438px;stroke-width:0.676858"
+         x="41.837536"
+         y="42.433445">LLIST</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.32719px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.676858;stroke-linecap:round"
+       x="40.889481"
+       y="49.844276"
+       id="text228"
+       transform="scale(1.0514482,0.9510692)"><tspan
+         sodipodi:role="line"
+         id="tspan228"
+         style="font-size:9.32719px;stroke-width:0.676858"
+         x="40.889481"
+         y="49.844276">FLASH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.52341px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ff0000;stroke-width:0.676858;stroke-linecap:round"
+       x="46.656307"
+       y="61.7118"
+       id="text237"
+       transform="scale(1.0735641,0.93147676)"><tspan
+         sodipodi:role="line"
+         id="tspan237"
+         style="font-size:9.52341px;fill:#ff0000;stroke-width:0.676858"
+         x="46.656307"
+         y="61.7118">CLS</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-dasharray:none"
+       id="path243"
+       sodipodi:type="arc"
+       sodipodi:cx="59.041637"
+       sodipodi:cy="62.551907"
+       sodipodi:rx="25.552832"
+       sodipodi:ry="25.552832"
+       sodipodi:start="5.7146803"
+       sodipodi:end="3.7090481"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="M 80.575182,48.794957 A 25.552832,25.552832 0 0 1 75.764598,81.872616 25.552832,25.552832 0 0 1 42.338965,81.890157 25.552832,25.552832 0 0 1 37.493666,48.817565 Z" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.06955px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.676858;stroke-linecap:round"
+       x="72.059464"
+       y="59.324368"
+       id="text249"
+       transform="scale(0.90654073,1.1030944)"><tspan
+         sodipodi:role="line"
+         id="tspan249"
+         style="font-size:7.06955px;stroke-width:0.676858"
+         x="72.059464"
+         y="59.324368">/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.4559px;line-height:1;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.676855;stroke-linecap:round"
+       x="52.615917"
+       y="86.871155"
+       id="text254"
+       transform="scale(1.0176294,0.98267602)"><tspan
+         sodipodi:role="line"
+         id="tspan254"
+         style="font-size:16.4559px;stroke-width:0.676855"
+         x="52.615917"
+         y="86.871155">V</tspan></text>
+    <circle
+       style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="circle363"
+       cx="71.582939"
+       cy="54.514557"
+       r="1.2078928" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 101.32509,54.514553 H 71.58294"
+       id="path363"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
